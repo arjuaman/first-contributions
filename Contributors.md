@@ -3,6 +3,7 @@
 - [Sareen Shah](https://github.com/sareen279)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Claire](https://github.com/claire-1)
+- [Arju Aman](https://github.com/arjuaman)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
